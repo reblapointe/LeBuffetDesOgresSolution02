@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ogres", "Ogres\Ogres.csproj", "{52608809-E08D-4CD5-A196-8127AD6603FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cuisine", "Cuisine\Cuisine.csproj", "{6CEC704E-74E5-42A0-ABCA-6F1CCE5D6172}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52608809-E08D-4CD5-A196-8127AD6603FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52608809-E08D-4CD5-A196-8127AD6603FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52608809-E08D-4CD5-A196-8127AD6603FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52608809-E08D-4CD5-A196-8127AD6603FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CEC704E-74E5-42A0-ABCA-6F1CCE5D6172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CEC704E-74E5-42A0-ABCA-6F1CCE5D6172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CEC704E-74E5-42A0-ABCA-6F1CCE5D6172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CEC704E-74E5-42A0-ABCA-6F1CCE5D6172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA2D83B6-A41C-4860-9735-5D7EBCB846EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2D83B6-A41C-4860-9735-5D7EBCB846EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2D83B6-A41C-4860-9735-5D7EBCB846EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2D83B6-A41C-4860-9735-5D7EBCB846EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2A2FF6A-4777-455D-B161-EF6F4519A315}
+	EndGlobalSection
+EndGlobal
